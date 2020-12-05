@@ -74,9 +74,15 @@ For both maps, think a bit about the audience of the map, and pay attention to y
   
   
   
-  
-  
-  
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- sonjakoivisto
+### Problem scores
+- Problem 1: 10.0 / 10.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: :sunny: / 0.0
+### Comments  
+Nice, clear and readable maps. The tooltip adds a lot to the interactive map. For the static map, you could add a scale bar and north arrow if looking for points of improvement. :smile:
   
   
   
